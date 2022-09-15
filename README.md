@@ -5,6 +5,9 @@
 
 Gulp is a toolkit that helps you automate painful or time-consuming tasks in your development workflow.
 
+## Requirements
+Requires Node.js and Gulp global
+
 ## Project setup
 ```
 git clone   // clone this repository
